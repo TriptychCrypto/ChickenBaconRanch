@@ -5,21 +5,22 @@ http://www.chickenbaconranch.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2015 BaconCoins 
+Copyrigth (c) 2015 ChickenBaconRanch Developers
 
 What is ChickenBaconRanch?
 ----------------
 
 ChickenBaconRanch is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - ~2.5 minute block targets
+ - subsidy halves in 420 blocks
+ - ~?? million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - starts off at many coins per block
 
 For more information, as well as an immediately useable, binary version of
-the ChickenBaconRanch client sofware, see http://www.chickenbaconranch.org.
+the ChickenBaconRanch client sofware, ask someone else. 
 
 License
 -------
