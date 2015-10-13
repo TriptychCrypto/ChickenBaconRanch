@@ -6,7 +6,7 @@ http://www.chickenbaconranch.org
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2015 BaconCoins 
-Copyrigth (c) 2015 ChickenBaconRanch Developers
+Copyright (c) 2015 ChickenBaconRanch Developers
 
 What is ChickenBaconRanch?
 ----------------
